@@ -1,0 +1,8 @@
+---
+title: "David Peede"
+image: "files/profile_pic.jpg"
+about:
+    template: trestles
+---
+
+This website is currently under construction.
